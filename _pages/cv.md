@@ -57,4 +57,4 @@ Media Skills
 * Video producing & audio editing
   * Adobe premiere, Cubase, Adobe audition
 * Web design
-  *Adobe dreamweaver
+  * Adobe dreamweaver
