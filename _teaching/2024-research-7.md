@@ -1,5 +1,5 @@
 ---
-title: "1 Master's thesis"
+title: "Master's thesis"
 collection: teaching
 excerpt: 'Title: Optimizing Persuasive Strategies: A Meta-Analysis of the Combined Effects of Gain-Loss Framing and Evidence Type'
 type: "thesis"
