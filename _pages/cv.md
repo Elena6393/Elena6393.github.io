@@ -14,7 +14,7 @@ Education
 * M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
   * Taught Postgraduate Programme of Communication, School of Communication
 * B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
-  * Network and New Media, School of College of Culture and Communication
+  * Network and New Media, College of Culture and Communication
 
 Work experience - Research Assistant
 ======
