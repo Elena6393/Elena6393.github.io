@@ -23,8 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "ZHI Meilin"
-  tel         : "852-95139543"
-  email            : "23447575@life.hkbu.edu.hk" 
+  email            : &description"23447575@life.hkbu.edu.hk" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
