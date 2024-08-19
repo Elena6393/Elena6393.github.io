@@ -1,5 +1,5 @@
 ---
-title: "Research experience 7"
+title: "Research experience 1"
 collection: teaching
 type: "dissertation"
 permalink:""
@@ -12,9 +12,6 @@ date: 2024-08-14
 Heading 1
 ======
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: portfolio
 ---
 Heading 2
 ======
