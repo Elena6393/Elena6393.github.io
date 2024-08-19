@@ -1,13 +1,13 @@
 ---
-title: "Teaching experience 7"
+title: "Research experience 7"
 collection: teaching
 type: "dissertation"
-permalink: /teaching/2015-spring-teaching-7
+permalink:""
 venue: "Hong Kong Baptist University"
 date: 2024-08-14
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Download the sample (10 pages)](/files/paper1.pdf)
 
 Heading 1
 ======
