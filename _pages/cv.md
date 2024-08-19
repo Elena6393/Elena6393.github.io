@@ -18,7 +18,7 @@ Education
 
 Work experience - Research Assistant
 ======
-* 2023.11-2024.5: Part-time research assistant in HKBU
+* 2023.11-2024.05: Part-time research assistant in HKBU
   * Duties includes: Organize experimental data.
   * Supervisor: Angela WANG Dan
 
