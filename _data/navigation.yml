@@ -8,20 +8,11 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/
-    
   - title: "Research Skills"
     url: /teaching/    
     
   - title: "Education & Tanscripts"
     url: /talks/    
 
-  - title: "Portfolio"
+  - title: "Media Skills"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
