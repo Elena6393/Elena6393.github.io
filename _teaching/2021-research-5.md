@@ -1,5 +1,5 @@
 ---
-title: "Research experience 2 - Research articles"
+title: "2 Internal articles "
 collection: teaching
 excerpt: 'Title: Projects of Ningbo Maritime Silk Road Research Institute (20YJA790079)'
 type: "Research assistant; Author"
