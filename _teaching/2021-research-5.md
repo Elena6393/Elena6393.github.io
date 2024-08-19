@@ -2,8 +2,7 @@
 title: "2 Internal articles"
 collection: teaching
 excerpt: 'Title: Projects of Ningbo Maritime Silk Road Research Institute (20YJA790079)'
-type: "Research assistant; Author"
-permalink: /
+type: "Internal articles"
 date: 2021-2022
 ---
 
