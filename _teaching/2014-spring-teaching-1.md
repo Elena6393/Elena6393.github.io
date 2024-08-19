@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Research experience 2 - Research articles"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+excerpt: 'Title: Projects of Ningbo Maritime Silk Road Research Institute (20YJA790079)'
+type: "Research assistant; Author"
+permalink: /
+date: 2021
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Introduction of the projects
 ======
+This project focuses on the critical issues of modernizing agriculture and rural areas in Zhejiang Province, aligning closely with the societal needs to consolidate and expand the achievements of poverty alleviation from 2021 to the "14th Five-Year Plan" period. It precisely captures the developmental opportunities of the digital resource era and the internet age. By conducting exploratory research in the new field of "digital rural construction," this project exhibits strong timeliness, innovativeness, and practicality, which will help propel the construction of a new countryside in Zhejiang Province to a higher level.
 
-Heading 2
-======
-
-Heading 3
-======
+---
+paperurl: 'http://academicpages.github.io/file/《改革要参》2021年4月30日（总第1679期）《新农村建设中的“数字鸿沟”问题与建议》.pdf'
+paperurl: 'http://academicpages.github.io/files/《经济要参》2021年6月2日第22期（总第2484期）《高度关注乡村治理中普法教育问题》.pdf'
+paperurl: 'http://academicpages.github.io/files/《经济要参》2021年第48期（总第2510期）《浙江省数字乡村振兴与“共同富裕”路径及其经验》.pdf'
+---
