@@ -12,4 +12,3 @@ This meta-analysis examines the persuasive effects of gain-loss framing and evid
 
 * Keywords: gain-loss framing; evidence type; narrative persuasion; Construal Level;Theory
 * thesis advisor: "Dr. Guangchao Charles FENG"
-* [Download the sample (10 pages)](http://academicpages.github.io/files/paper1.pdf)
