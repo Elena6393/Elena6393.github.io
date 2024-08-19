@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10 
+* M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
+  * Taught Postgraduate Programme of Communication, School of Communication
 * B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
+  * Network and New Media, School of College of Culture and Communication
 
 Work experience - Research Assistant
 ======
@@ -35,7 +37,7 @@ Work experience - News Media
   * Supervisor: WU Yuxi
 
 * 07.2021-08.2021: Intern Editor & journalist
-  * [Suzhou Mingcheng Information Port Development Co., Ltd.]([https://jtyst.zj.gov.cn/col/col1677065/index.html](https://www.2500sz.com/))
+  * [Suzhou Mingcheng Information Port Development Co., Ltd.](https://www.2500sz.com/)
   * Duties includes: Promotional article layout, proofreading, interviewing, photography
   * Supervisor: LU Menglan
 
