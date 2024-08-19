@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10 
+* B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
 
-Work experience
+Work experience - Research Assistant
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.11-2024.5: Part-time research assistant in HKBU
+  * Duties includes: Organize experimental data.
+  * Supervisor: Angela WANG Dan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.03-2023.03: [Websites Editor](https://www.cceecexpo.org/) & research assistant
+  * [Ningbo Maritime Silk Road Research Institute of Zhejiang Wanli University](http://www.nbssa.org.cn/art/2015/6/12/art_1229619676_14645.html) - Network & Data Center
+  * Duties includes: Typeset and uploaded press releases to the website and proofread; specific research work for several programmes.
+  * Supervisor: ZHANG Quanyi
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Work experience - News Media
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 09.2021-08.2022: Intern Editor & journalist （more than a year）
+  * [Zhejiang Traffic and Tourism Herald Newspaper Co., Ltd.](https://jtyst.zj.gov.cn/col/col1677065/index.html)
+  * Position: Intern Editor & journalist
+  * Duties includes:  Promotional article layout, video post, graphic design, online event planning
+  * Supervisor: WU Yuxi
+
+* 07.2021-08.2021: Intern Editor & journalist
+  * [Suzhou Mingcheng Information Port Development Co., Ltd.]([https://jtyst.zj.gov.cn/col/col1677065/index.html](https://www.2500sz.com/))
+  * Duties includes: Promotional article layout, proofreading, interviewing, photography
+  * Supervisor: LU Menglan
+
+
+Research Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Quantitative Research Methods and Data Analysis
+  * R, SPSS, smartPLS
+* Computer-assisted qualitative data analysis
+  * python
+  * Tableau
+
+Media Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Graphic design
+  * Adobe Photoshops, Adobe After Effects, Adobe Indesign
+* Video producing & audio editing
+  * Adobe premiere, Cubase, Adobe audition
+* Web design
+  *Adobe dreamweaver
