@@ -1,0 +1,33 @@
+---
+title: "Data visualization：Is Beijing's blue sky always a flash in the pan?"
+excerpt: "The work "Chasing Dreams in Xiaotang" was shot over 17 days, accumulating a total of 420GB of material, and the finished film is 7 minutes long. Techniques such as aerial photography, time-lapse, and frame ramping were employed, with meticulous color grading applied to all footage. The path to shared prosperity in Xiaotang Township is characterized by the development of an integrated agricultural, cultural, and tourism economy. To elucidate this practical experience, we selected three distinctive villages for research and filming, aiming to establish exemplars and abstract Xiaotang Township's collective wisdom on a micro scale. The content is ultimately presented in three parts: "Drunken on Grapes" at West Pond, "Poetic Paintings" at Middle Aol, and "Ancient Charm" at Huangbu Village. These sections analyze the deep integration of agriculture, culture, and tourism in Xiaotang Township from three aspects: "culture + tourism," "agriculture + tourism," and "art + tourism" respectively. West Pond demonstrates ethnic shared prosperity where government, enterprises, universities, and new ethnic minority farmers innovate together creating new rural tourism business models; Middle Aol showcases spiritual shared prosperity by cultivating local cultural symbols and integrating art education into the construction of spiritual civilization; Huangbu enriches the local culture, continuing the rural cultural lineage, allowing the co-development of intangible cultural heritage preservation and ancient village tourism. A highlight of this film is its functional prominence. While celebrating the shared prosperity efforts of the working people, it also summarizes unique local experiences of shared prosperity, which is where the value of this film lies. As a record of rural revitalization, it not only showcases the new faces of farmers and rural areas, providing visual enjoyment to the audience; it also serves as a professionally esteemed and academically valuable case study, facilitating learning and emulation by other rural areas.<br/><img src='files/Xiaotang.png'>"
+collection: portfolio
+---
+
+Chasing Dreams in Xiaotang
+==========================
+[Click to watch the video](https://drive.google.com/file/d/1UuREPSf0aJM6JNVkVt-gV1odsQi3xW6U/view?usp=drive_link)
+
+**Introduction:** <br>
+The work "Chasing Dreams in Xiaotang" was shot over 17 days, accumulating a total of 420GB of material, and the finished film is 7 minutes long. Techniques such as aerial photography, time-lapse, and frame ramping were employed, with meticulous color grading applied to all footage. The path to shared prosperity in Xiaotang Township is characterized by the development of an integrated agricultural, cultural, and tourism economy. To elucidate this practical experience, we selected three distinctive villages for research and filming, aiming to establish exemplars and abstract Xiaotang Township's collective wisdom on a micro scale. The content is ultimately presented in three parts: "Drunken on Grapes" at West Pond, "Poetic Paintings" at Middle Aol, and "Ancient Charm" at Huangbu Village. These sections analyze the deep integration of agriculture, culture, and tourism in Xiaotang Township from three aspects: "culture + tourism," "agriculture + tourism," and "art + tourism" respectively. West Pond demonstrates ethnic shared prosperity where government, enterprises, universities, and new ethnic minority farmers innovate together creating new rural tourism business models; Middle Aol showcases spiritual shared prosperity by cultivating local cultural symbols and integrating art education into the construction of spiritual civilization; Huangbu enriches the local culture, continuing the rural cultural lineage, allowing the co-development of intangible cultural heritage preservation and ancient village tourism. A highlight of this film is its functional prominence. While celebrating the shared prosperity efforts of the working people, it also summarizes unique local experiences of shared prosperity, which is where the value of this film lies. As a record of rural revitalization, it not only showcases the new faces of farmers and rural areas, providing visual enjoyment to the audience; it also serves as a professionally esteemed and academically valuable case study, facilitating learning and emulation by other rural areas.
+
+**Review** <br>
+Looking back on my interned work, I found the trend of mediatization of politics, that the media serves the political objectives via various cultural forms and many political practices rely on the media’s power.  Whether in a commercial advertisement or political communication campaign, the creators' intentions are to consciously "seek channels of communication" through the media, to "aspire to consensus" or "create
+consent" in the arena of a commercialized society.<br>
+When I was filming _Chasing Dreams in Xiaotang_ for Ningbo government agency, a documentary of rural
+revitalization in Xiaotang village, I explored that the Perspective of First-person Narrative is the best method
+to arise political identification.  The protagonist's autonomous narrative of China's rural development policies
+can better evoked the audience's empathy for the farmers' desire for a better life, while the aerial images of
+the beautiful countryside and the lively cultural landscape tell people about the happiness of life in the new
+reformed countryside.  Thus the film creates a supportive attitude among viewers as they learn about the
+policies targeting rural reform.  Media agenda setting, reporting frames, discourse forms and narrative styles
+may all have a shaping effect on politics.  Therefore, I believe it is important to learn about constructing media<br>
+agendas, framing communication, image management, and shaping political branding or PR strategies.
+In completing my public opinion practical project, I learned that social media and alternative media have
+great power on social mobilization, for they can aggregate and differentiate groups by mending weak ties
+and connective action.  It is competent in shaping political attitudes, influencing political agendas and public
+decisions.  It is undeniable that new media has also brought new challenges to social and global governance,
+such as fake news with echo chamber effect, and the Internet Group Crisis Event.  Perhaps the changes in
+human communication patterns caused by modern media technology trigger these crises.  However it has
+also given us the impetus and direction to make progress in our work of social mobilization and public opinion
+guidance.<br></p>
