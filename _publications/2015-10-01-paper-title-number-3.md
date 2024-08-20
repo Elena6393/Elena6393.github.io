@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Optimizing Persuasive Strategies: A Meta-Analysis of the Combined Effects of Gain-Loss Framing and Evidence Type"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2024-08-14
+venue: 'Master Thesis'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+# Abstract
+This meta-analysis examines the persuasive effects of gain-loss framing and evidence type (narrative and non-narrative), and their interactions, to identify the most effective communication strategies. The findings reveal that neither gain nor loss frames consistently outperform the other, and narrative evidence generally has a stronger impact on persuasion than non-narrative. Importantly, the combination of a gain frame with non-narrative evidence emerged as particularly effective, enhancing both behavioral intentions and attitudes. However, loss-framed narratives were found to be most engaging in terms of information processing. Moderating variables were explored, with sample type showing marginal significance; gain frames performed better in convenience samples. 
+
+* Keywords: gain-loss framing; evidence type; narrative persuasion; Construal Level;Theory
+* thesis advisor: "Dr. Guangchao Charles FENG"
+* [Download the sample (10 pages)](http://academicpages.github.io/files/paper1.pdf)
