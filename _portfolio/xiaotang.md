@@ -1,5 +1,5 @@
 ---
-title: "Video Making"
+title: "Video Making & Adverting Design"
 excerpt: "_Click to watch all the video programmes_<br><img src='https://Elena6393.github.io/files/Portfolio-google.png' width='500' height='300'>"
 collection: portfolio
 ---
@@ -13,6 +13,10 @@ The work "Chasing Dreams in Xiaotang" was shot over 17 days, accumulating a tota
 Produce a scenic video for Xiaotang
 ==========================
 [Click to watch the video](https://article.xuexi.cn/articles/index.html?art_id=10542784820000008615&cdn=https%3A%2F%2Fregion-zhejiang-resource&item_id=10542784820000008615&study_style_id=video_default&t=1657702422018&showmenu=false&ref_read_id=a0e2da33-8516-45e3-819b-cc48a0e0a792_1657801336896&pid=&ptype=-1&source=share&share_to=wx_feed)
+
+Course presentations: E-magazing design
+==========================
+[Click to read the magazing](https://drive.google.com/file/d/1qZl0VeS5skMbEspfwO3LcOxQiPBCptwX/view?usp=drive_link)
 
 Course presentations: Making an ads mainly by After effects
 ===========================
