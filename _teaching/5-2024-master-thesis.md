@@ -2,7 +2,7 @@
 title: "Optimizing Persuasive Strategies: A Meta-Analysis of the Combined Effects of Gain-Loss Framing and Evidence Type 2024.1-2024.8"
 collection: teaching
 type: "Master thesis"
-permalink: /teaching/2024-master-thesis
+permalink: /teaching/5-2024-master-thesis
 venue: "Hong Kong Baptist University"
 date: 2024-08-14
 ---
