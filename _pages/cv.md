@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Transcripts & Achievements"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,57 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+TRANSCRIPTS & RANKINGS
 ======
-* M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
+* M.S. in Hong Kong, China, Hong Kong Baptist University, 2023.09-2024.10
   * Taught Postgraduate Programme of Communication, School of Communication
   * GPA: 3.63/4
-  * [Master Thesis](https://Elena6393.github.io/files/meta-sample.pdf)
-* B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
+  * [Transcript in HKBU](https://Elena6393.github.io/files/Grade Record (Unofficial).pdf）
+* B.S. in Ningbo, China, Zhejiang Wanli University, 2019.09-2023.06
   * Network and New Media, College of Culture and Communication
   * GPA: 4.1/5
-  * [The Bachelor graduation Project - A feature programme. Chick to read the detailed description](https://Elena6393.github.io/files/毕业设计工作说明.pdf)
-  * [This project got the first place. Cilck to watch the video.](https://mp.weixin.qq.com/s/Sb6wG1dNnQmHpsgBXSEW3A)
+  * [Transcript in ZWU](https://Elena6393.github.io/files/成绩证明·中文（彩色）.jpg)
+  * [Ranking](https://Elena6393.github.io/files/排名证明（彩色）.jpg)
 
-Work experience - Research Assistant
+HONORS & AWARDS
 ======
-* 2023.11-2024.05: Part-time research assistant in HKBU
-  * Duties includes: Organize experimental data.
-  * Supervisor: Angela WANG Dan
+**Student honors**
+* **Excellent Graduate of Zhejiang Province** in 2023.06 [link](https://jyt.zj.gov.cn/art/2023/5/5/art_1228998760_58939980.html)
+* **Zhejiang Provincial Government Scholarship (top 3%)** in 2020.12 & 2021.12 & 2022.12
+* **First-class scholarship of the university** in 2020.11 & 2021.11
+* **Second-class scholarship of the university** in 2022.11
+* **The honor of “Merit Student”** in 2020.11 & 2021.11 & 2022.11
 
-* 2022.03-2023.03: [Websites Editor](https://www.cceecexpo.org/) & research assistant
-  * [Ningbo Maritime Silk Road Research Institute of Zhejiang Wanli University](http://www.nbssa.org.cn/art/2015/6/12/art_1229619676_14645.html) - Network & Data Center
-  * Duties includes: Typeset and uploaded press releases to the website and proofread; specific research work for several programmes.
-  * Supervisor: ZHANG Quanyi
+**Professional Skills Awards**
+* **Second prize in the 10th Zhejiang Universities Photography Competition** in 2022.11
 
-
-Work experience - News Media
-======
-* 09.2021-08.2022: Intern Editor & journalist （more than a year）
-  * [Zhejiang Traffic and Tourism Herald Newspaper Co., Ltd.](https://jtyst.zj.gov.cn/col/col1677065/index.html)
-  * Position: Intern Editor & journalist
-  * Duties includes:  Promotional article layout, video post, graphic design, online event planning
-  * Supervisor: WU Yuxi
-
-* 07.2021-08.2021: Intern Editor & journalist
-  * [Suzhou Mingcheng Information Port Development Co., Ltd.](https://www.2500sz.com/)
-  * Duties includes: Promotional article layout, proofreading, interviewing, photography
-  * Supervisor: LU Menglan
-
-
-Research Skills
-======
-* Quantitative Research Methods and Data Analysis
-  * R, SPSS, smartPLS
-* Computer-assisted qualitative data analysis
-  * python
-  * Tableau
-
-Media Skills
-======
-* Graphic design
-  * Adobe Photoshops, Adobe After Effects, Adobe Indesign
-* Video producing & audio editing
-  * Adobe premiere, Cubase, Adobe audition
-* Web design
-  * Adobe dreamweaver
+#### Related Certifications
+* [Awards & Honours](https://Elena6393.github.io/files/Awards & Honours.pdf)
