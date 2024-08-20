@@ -14,7 +14,7 @@ TRANSCRIPTS & RANKINGS
 * M.S. in Hong Kong, China, Hong Kong Baptist University, 2023.09-2024.10
   * Taught Postgraduate Programme of Communication, School of Communication
   * GPA: 3.63/4
-  * [Transcript in HKBU]([https://Elena6393.github.io](https://Elena6393.github.io/files/Grade Record_Unofficial.jpg)
+  * [Transcript in HKBU](https://Elena6393.github.io](https://Elena6393.github.io/files/Grade Record_Unofficial.jpg)
 * B.S. in Ningbo, China, Zhejiang Wanli University, 2019.09-2023.06
   * Network and New Media, College of Culture and Communication
   * GPA: 4.13/5
