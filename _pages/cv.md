@@ -18,7 +18,8 @@ Education
 * B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
   * Network and New Media, College of Culture and Communication
   * GPA: 4.1/5
-  * [Bachelor graduation project]（https://Elena6393.github.io/）
+  * [Bachelor graduation : A newswork project](https://Elena6393.github.io/files/毕业设计工作说明.pdf)
+  * [This project got the first place. Cilck to watch the video.](https://mp.weixin.qq.com/s/Sb6wG1dNnQmHpsgBXSEW3A)
 
 Work experience - Research Assistant
 ======
