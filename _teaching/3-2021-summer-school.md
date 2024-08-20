@@ -3,7 +3,6 @@ title: "A Systematic Literature Review of How News Games Explore a New Path in t
 Cross-Cultural Communication 2021.8"
 collection: teaching
 type: "Conference paper"
-permalink: /teaching/2021-summer-school
 venue: "University of Nottingham Ningbo China, Mobile Studies Summer School"
 date: 2021-08-27
 ---
