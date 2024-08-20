@@ -1,6 +1,6 @@
 ---
-title: "Data visualization：Is Beijing's blue sky always a flash in the pan?"
-excerpt: "[Click to watch the video](https://drive.google.com/file/d/1UuREPSf0aJM6JNVkVt-gV1odsQi3xW6U/view?usp=drive_link)<br><img src='files/Xiaotang.png'>"
+title: "Video Making"
+excerpt: "Click to watch all the video programmes<br><img src='https://Elena6393.github.io/files/Xiaotang.png'>"
 collection: portfolio
 ---
 
@@ -11,23 +11,27 @@ Chasing Dreams in Xiaotang
 **Introduction:** <br>
 The work "Chasing Dreams in Xiaotang" was shot over 17 days, accumulating a total of 420GB of material, and the finished film is 7 minutes long. Techniques such as aerial photography, time-lapse, and frame ramping were employed, with meticulous color grading applied to all footage. The path to shared prosperity in Xiaotang Township is characterized by the development of an integrated agricultural, cultural, and tourism economy. To elucidate this practical experience, we selected three distinctive villages for research and filming, aiming to establish exemplars and abstract Xiaotang Township's collective wisdom on a micro scale. The content is ultimately presented in three parts: "Drunken on Grapes" at West Pond, "Poetic Paintings" at Middle Aol, and "Ancient Charm" at Huangbu Village. These sections analyze the deep integration of agriculture, culture, and tourism in Xiaotang Township from three aspects: "culture + tourism," "agriculture + tourism," and "art + tourism" respectively. West Pond demonstrates ethnic shared prosperity where government, enterprises, universities, and new ethnic minority farmers innovate together creating new rural tourism business models; Middle Aol showcases spiritual shared prosperity by cultivating local cultural symbols and integrating art education into the construction of spiritual civilization; Huangbu enriches the local culture, continuing the rural cultural lineage, allowing the co-development of intangible cultural heritage preservation and ancient village tourism. A highlight of this film is its functional prominence. While celebrating the shared prosperity efforts of the working people, it also summarizes unique local experiences of shared prosperity, which is where the value of this film lies. As a record of rural revitalization, it not only showcases the new faces of farmers and rural areas, providing visual enjoyment to the audience; it also serves as a professionally esteemed and academically valuable case study, facilitating learning and emulation by other rural areas.
 
-**Review** <br>
-Looking back on my interned work, I found the trend of mediatization of politics, that the media serves the political objectives via various cultural forms and many political practices rely on the media’s power.  Whether in a commercial advertisement or political communication campaign, the creators' intentions are to consciously "seek channels of communication" through the media, to "aspire to consensus" or "create
-consent" in the arena of a commercialized society.<br>
-When I was filming _Chasing Dreams in Xiaotang_ for Ningbo government agency, a documentary of rural
-revitalization in Xiaotang village, I explored that the Perspective of First-person Narrative is the best method
-to arise political identification.  The protagonist's autonomous narrative of China's rural development policies
-can better evoked the audience's empathy for the farmers' desire for a better life, while the aerial images of
-the beautiful countryside and the lively cultural landscape tell people about the happiness of life in the new
-reformed countryside.  Thus the film creates a supportive attitude among viewers as they learn about the
-policies targeting rural reform.  Media agenda setting, reporting frames, discourse forms and narrative styles
-may all have a shaping effect on politics.  Therefore, I believe it is important to learn about constructing media<br>
-agendas, framing communication, image management, and shaping political branding or PR strategies.
-In completing my public opinion practical project, I learned that social media and alternative media have
-great power on social mobilization, for they can aggregate and differentiate groups by mending weak ties
-and connective action.  It is competent in shaping political attitudes, influencing political agendas and public
-decisions.  It is undeniable that new media has also brought new challenges to social and global governance,
-such as fake news with echo chamber effect, and the Internet Group Crisis Event.  Perhaps the changes in
-human communication patterns caused by modern media technology trigger these crises.  However it has
-also given us the impetus and direction to make progress in our work of social mobilization and public opinion
-guidance.<br></p>
+Produce a scenic video for Xiaotang
+==========================
+[Click to watch the video](https://article.xuexi.cn/articles/index.html?art_id=10542784820000008615&cdn=https%3A%2F%2Fregion-zhejiang-resource&item_id=10542784820000008615&study_style_id=video_default&t=1657702422018&showmenu=false&ref_read_id=a0e2da33-8516-45e3-819b-cc48a0e0a792_1657801336896&pid=&ptype=-1&source=share&share_to=wx_feed)
+
+ZWU clubs-Chinese Kongfu Baji Quan （the review of 2021）
+==========================
+[Click to watch the video](https://www.bilibili.com/video/BV1cA411d78p/?spm_id_from=333.337.search-card.all.click&vd_source=728054765ed61d304a42594098b91b68)
+**Introduction:** <br>
+This year, our lives are still overshadowed by the coronavirus, but we continue to practice martial arts during these unsettling days, remaining confident about the future.
+
+Course presentations: Making an ads mainly by After effects
+===========================
+[Click to watch the video](https://drive.google.com/file/d/1sEPkUoypZ4s7xqbBUkMg0huyhE59JDkV/view?usp=drive_link)
+**Introduction:** <br>
+I am responsible for filming the main video and for the post-production of the first and second parts. This included using 3D functionality to model a flying butterfly.
+
+Course presentations: Film shooting an coffee ads
+===========================
+[Click to watch the video](https://drive.google.com/file/d/1r_Fj-0qOouGz_zGeHj4sV0cYTh8BNbgu/view?usp=drive_link)
+
+Course presentations: Film shooting an music video
+===========================
+[Click to watch the video](https://drive.google.com/file/d/15ek9OIdXtyMaggjUgdHrcsZbsLOT3Ohu/view?usp=drive_link)
+
