@@ -7,6 +7,7 @@ venue: "Zhejiang Wanli University"
 date: 2021-06-02
 excerpt:"**Introduction:** This project focuses on the critical issues of modernizing agriculture and rural areas in Zhejiang Province, aligning closely with the societal needs to consolidate and expand the achievements of poverty alleviation from 2021 to the "14th Five-Year Plan" period. It precisely captures the developmental opportunities of the digital resource era and the internet age. By conducting exploratory research in the new field of "digital rural construction," this project exhibits strong timeliness, innovativeness, and practicality, which will help propel the construction of a new countryside in Zhejiang Province to a higher level.<br>**Duties:** material collection and initial article draft composition<br>"
 ---
+
 **Introduction:** This project focuses on the critical issues of modernizing agriculture and rural areas in Zhejiang Province, aligning closely with the societal needs to consolidate and expand the achievements of poverty alleviation from 2021 to the "14th Five-Year Plan" period. It precisely captures the developmental opportunities of the digital resource era and the internet age. By conducting exploratory research in the new field of "digital rural construction," this project exhibits strong timeliness, innovativeness, and practicality, which will help propel the construction of a new countryside in Zhejiang Province to a higher level.<br>
 * **Research advisor:** Dr. ZHANG Quanyi
 * **Duties:** material collection and initial article draft composition
