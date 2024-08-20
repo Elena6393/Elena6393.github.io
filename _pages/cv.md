@@ -13,13 +13,12 @@ Education
 ======
 * M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
   * Taught Postgraduate Programme of Communication, School of Communication
-  * [transcript in HKBU]（）
-  * [Master Thesis]()
+  * GPA: 3.63/4
+  * [Master Thesis](https://Elena6393.github.io/files/meta-sample.pdf)
 * B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
   * Network and New Media, College of Culture and Communication
-  * [transcript in ZWU]（）
-  * [Certification of Rank and Grade Point Average]（）
-  * [Bachelor graduation project]（）
+  * GPA: 4.1/5
+  * [Bachelor graduation project]（https://Elena6393.github.io/）
 
 Work experience - Research Assistant
 ======
