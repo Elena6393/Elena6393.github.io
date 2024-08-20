@@ -1,6 +1,6 @@
 ---
 title: "Video Making"
-excerpt: "_Click to watch all the video programmes_<br><img src='https://Elena6393.github.io/files/Portfolio-google.png'>"
+excerpt: "_Click to watch all the video programmes_<br><img src='https://Elena6393.github.io/files/Portfolio-google.png' width='500' height='300'>"
 collection: portfolio
 ---
 
