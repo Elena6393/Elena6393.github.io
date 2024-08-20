@@ -2,6 +2,7 @@
 title: "Projects of Ningbo Maritime Silk Road Research Institute (20YJA790079) 2020.5-2021.6"
 collection: teaching
 type: "Internal Articles"
+permalink: /teaching/4-2021-silkroad
 venue: "Zhejiang Wanli University"
 date: 2021-06-02
 ---
