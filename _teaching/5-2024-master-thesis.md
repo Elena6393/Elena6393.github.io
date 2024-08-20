@@ -10,4 +10,4 @@ date: 2024-08-14
 
 * **Keywords:** gain-loss framing; evidence type; narrative persuasion; Construal Level Theory
 * **Thesis advisor:** Dr. Guangchao Charles FENG
-* [Details of the sample (10 pages)](http://academicpages.github.io/files/paper1.pdf)
+* [Details of the sample (10 pages)](http://Elena6393.github.io/files/meta-sample.pdf)
