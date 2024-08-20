@@ -1,6 +1,6 @@
 ---
 title: "Data visualization：Is Beijing's blue sky always a flash in the pan?"
-excerpt: "<img src='files/Xiaotang.png'>"
+excerpt: "[Click to watch the video](https://drive.google.com/file/d/1UuREPSf0aJM6JNVkVt-gV1odsQi3xW6U/view?usp=drive_link)<br><img src='files/Xiaotang.png'>"
 collection: portfolio
 ---
 
