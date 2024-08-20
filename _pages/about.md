@@ -62,3 +62,17 @@ Media Skills
   * Adobe premiere, Cubase, Adobe audition
 * Web design
   * Adobe dreamweaver
+
+Social Service
+======
+True Self (Guangzhou xinwugui Network Technology Co., Ltd)
+* 2020.11 - 2023.06
+* **Position:** Volunteer and Editor of Ningbo area official account operation
+* **Participation:** Responsible for public welfare information dissemination, organizing public welfare activities and poster design
+Suzhou Green State Emergency Response Team (part time)
+* 2019.09-2023.06
+* **Position:** Volunteer and Editor of the official account 
+* **Participation:** Responsible for first aid knowledge promotion, photography and video, promotion article layout
+
+#### Related Certifications
+[Internship Certificates](https://Elena6393.github.io/files/Internship Certificates_MEILIN ZHI.pdf)
