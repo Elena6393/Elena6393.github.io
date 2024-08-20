@@ -1,6 +1,6 @@
 ---
 title: "A Systematic Literature Review of How News Games Explore a New Path in the
-Cross-Cultural Communication"
+Cross-Cultural Communication 2021.8"
 collection: teaching
 type: "Conference paper"
 permalink: /teaching/2021-summer-school
