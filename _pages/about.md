@@ -18,7 +18,7 @@ Education
   * Network and New Media, College of Culture and Communication
   * GPA: 4.1/5
   * [The Bachelor graduation Project - A feature programme. Chick to read the detailed description](https://Elena6393.github.io/files/毕业设计工作说明.pdf)
-  * [This project got the first place. Cilck to watch the video.](https://mp.weixin.qq.com/s/Sb6wG1dNnQmHpsgBXSEW3A)
+  * [This project got the first place. Cilck to see the presentation.](https://mp.weixin.qq.com/s/Sb6wG1dNnQmHpsgBXSEW3A)
 
 Work experience - Research Assistant
 ======
