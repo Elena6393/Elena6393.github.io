@@ -1,5 +1,5 @@
 ---
-title: "Video Making & Adverting Design"
+title: "Video Making & Advertising Design"
 excerpt: "_Click to watch all the video programmes_<br><img src='https://Elena6393.github.io/files/Portfolio-google.png' width='500' height='300'>"
 collection: portfolio
 ---
