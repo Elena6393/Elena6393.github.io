@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 # Course Presentations: Sentiment Analysis
-[Click to see the data processing introduction](https://Elena6393.github.io/files/data processing-intro.png) <br>
+[Click to see the data processing introduction](https://Elena6393.github.io/files/data-processing-intro.png) <br>
 [Click to see the report](https://Elena6393.github.io/files/Characters of Web Rumors - Analyzing the 2010-2014 Period of Weibo with LDA and Sentiment Analysis.pdf) <br>
 **Introduction:** <br>
 This project includes a full emotional analysis, data visualization, and statistical testing of hypotheses. My contributions are marked by my name in the subheadings of this document.
