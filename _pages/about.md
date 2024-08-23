@@ -62,6 +62,7 @@ Research Skills
   * python (data crawling/data cleaning/data visualization/statistical analysis/sentiment analysis/LDA)
   * Tableau
   * Gephi
+  * I am continuing to learn knowledge related to machine learning on the basis of the course
   _Click to see the course attended_
   * [COMM7780_Big_Data_Analytics_for_Media_and_Communication](https://Elena6393.github.io/files/COMM7780_Big_Data_Analytics_for_Media_and_Communication.pdf)
 
