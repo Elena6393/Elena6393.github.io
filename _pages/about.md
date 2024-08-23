@@ -52,9 +52,18 @@ Research Skills
 ======
 * Quantitative Research Methods and Data Analysis
   * R, SPSS, smartPLS
+  * Have attended quantitative and qualitative research methods
+  _Click to see the course attended_
+  * [COMD7100_Advanced_Quantitative_Communication_Research_Methods](https://Elena6393.github.io/files/COMD7100_Advanced_Quantitative_Communication_Research_Methods.pdf)
+  * [COMM7660_Statistical_Analysis_in_Communication](https://Elena6393.github.io/files/COMM7660_Statistical_Analysis_in_Communication.pdf)
+  * [COMM7020_Approaches_Methods_in_Comm_Research](https://Elena6393.github.io/files/COMM7020_Approaches_Methods_in_Comm_Research.pdf)
+  * [COMM7630_Qualitative_Research_Methods](https://Elena6393.github.io/files/COMM7630_Qualitative_Research_Methods.pdf)
 * Computer-assisted qualitative data analysis
-  * python
+  * python (data crawling/data cleaning/data visualization/statistical analysis/sentiment analysis/LDA)
   * Tableau
+  * Gephi
+  _Click to see the course attended_
+  * [COMM7780_Big_Data_Analytics_for_Media_and_Communication](https://Elena6393.github.io/files/COMM7780_Big_Data_Analytics_for_Media_and_Communication.pdf)
 
 Media Skills
 ======
