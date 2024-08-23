@@ -13,7 +13,8 @@ Education
 * M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
   * Taught Postgraduate Programme of Communication, School of Communication
   * GPA: 3.63/4
-  * [Master Thesis](https://Elena6393.github.io/files/meta-sample.pdf)
+  * [Master Thesis](https://Elena6393.github.io/files/the_sample_pages_of_thesis.pdf)
+  * [Master Thesis Evaluation](https://Elena6393.github.io/files/M.A. Project Evaluation Form_2024.pdf)
 * B.S. in Ningbo, China, [Zhejiang Wanli University](https://www.zwu.edu.cn/), 2019.09-2023.06
   * Network and New Media, College of Culture and Communication
   * GPA: 4.13/5
