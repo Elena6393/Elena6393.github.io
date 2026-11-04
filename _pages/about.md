@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
+* M.A. in Hong Kong, China, [Hong Kong Baptist University](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm), 2023.09-2024.10
   * Taught Postgraduate Programme of Communication, School of Communication
   * GPA: 3.63/4
   * [Master Thesis](https://Elena6393.github.io/files/the_sample_pages_of_thesis.pdf)
